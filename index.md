@@ -1,4 +1,7 @@
+---
 title: Privacy Policy
+---
+
 # Privacy Policy
 
 This game does not collect, store, or share any personal data from users.
